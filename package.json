@@ -1,0 +1,15 @@
+{
+  "name": "lospastes.mx",
+  "version": "1.0.0",
+  "description": "Los pastes single website",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": ".git"
+  },
+  "author": "ernesto.c.ascencio@gmail.com",
+  "license": "ISC"
+}
